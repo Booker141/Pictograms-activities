@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="70mm"
+   viewBox="0 0 70 70"
+   version="1.1"
+   id="svg72"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CarritoCompra.svg"
+   inkscape:export-filename="C:\Users\Administrador\Desktop\IconosPictogramas\CarritoCompra.png"
+   inkscape:export-xdpi="19.957144"
+   inkscape:export-ydpi="19.957144">
+  <defs
+     id="defs66" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="77.68663"
+     inkscape:cy="157.96949"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata69">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-227)">
+    <g
+       id="g108"
+       transform="matrix(0.48185036,0,0,0.48185036,-18.272315,186.1014)"
+       inkscape:export-xdpi="17.289787"
+       inkscape:export-ydpi="17.289787">
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path85"
+         d="m 58.264758,114.05401 18.708864,-0.13364 4.14268,10.15624 h 78.176338 l -19.77795,44.09947 -44.09947,0.4009 -4.944486,10.69078 57.863856,-0.13363 0.26727,9.48808 -73.766394,-0.13364 9.755338,-24.18789 -15.367997,-39.9568 -10.824414,0.13363 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <circle
+         r="10.289877"
+         cy="203.9902"
+         cx="89.134392"
+         id="path95"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332"
+         id="circle97"
+         cx="139.24742"
+         cy="203.85657"
+         r="10.289877" />
+      <rect
+         y="109.10951"
+         x="102.23059"
+         height="13.096207"
+         width="21.190109"
+         id="rect99"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+      <rect
+         y="99.086906"
+         x="84.991707"
+         height="23.352364"
+         width="14.432554"
+         id="rect101"
+         style="fill:#000000;stroke:#000000;stroke-width:0.26458332" />
+    </g>
+  </g>
+</svg>

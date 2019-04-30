@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="70"
+   height="70"
+   viewBox="0 0 70 70"
+   sodipodi:docname="TrajeElegancia.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\Administrador\Desktop\IconosPictogramas\TrajeElegancia.png"
+   inkscape:export-xdpi="75.428574"
+   inkscape:export-ydpi="75.428574">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="7.0666667"
+     inkscape:cx="6.7429166"
+     inkscape:cy="59.473554"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g64"
+     transform="matrix(0.68593571,0,0,0.68593571,53.771885,4.0828052)">
+    <g
+       style="fill:#000000"
+       transform="matrix(0.95894759,0,0,0.95894759,-53.885446,8.1793159)"
+       id="g26">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 20.731132,5.235849 7.641509,7.570755 7.216981,-7.5000003 z"
+         id="path20"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 28.372641,12.806604 -7.570754,34.174528 7.712263,7.429245 7.287737,-7.5 C 33.113208,35.636792 31.524122,24.31159 28.372641,12.806604"
+         id="path22"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path49"
+       d="m -40.04717,13.301887 c -3.049871,-0.07367 -6.496665,-0.212916 -10.613207,0.424527 -6.797553,10.424529 -10.14151,21.273585 -14.858491,31.698114 -0.865006,9.706461 -2.846476,19.570866 -4.245283,28.443396 3.781942,4.215472 7.406863,1.682273 9.339623,0.849056 l 5.518868,-23.490565 4.81132,-8.773585 1e-6,32.688679 c 4.787231,5.01255 16.486126,4.886062 24.622641,5.09434 8.554238,-0.611822 19.3142438,-1.002929 22.4999998,-5.943397 l 0.141509,-31.698113 c 1.612952,3.890792 2.96222804,6.105121 4.245286,8.490566 l 5.51886,23.490566 c 3.2650402,2.293693 6.3101902,1.948707 9.1981202,-0.283018 l -3.82075,-28.584906 c 2.05822,3.95343 -8.5941702,-22.126519 -14.5754782,-31.981132 -3.390122,-0.08407 -3.183414,-1.067354 -10.6132078,-0.141509 l -13.443396,30.141508 z"
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <circle
+       r="1.2028302"
+       cy="45.353775"
+       cx="-26.816036"
+       id="path51"
+       style="fill:#ffffff;stroke:#ffffff" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff"
+       id="circle53"
+       cx="-26.816036"
+       cy="56.25"
+       r="1.2028302" />
+    <circle
+       r="1.2028302"
+       cy="66.721695"
+       cx="-26.816036"
+       id="circle55"
+       style="fill:#ffffff;stroke:#ffffff" />
+  </g>
+</svg>
